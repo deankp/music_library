@@ -8,7 +8,7 @@ function AlbumView() {
     return (
         <div>
             <h2>The id passed was: {id}</h2>
-            <p>Album Data Goes Here!</p>
+            <p>Album Data Goes Here!!</p>
         </div>
     )
 }
